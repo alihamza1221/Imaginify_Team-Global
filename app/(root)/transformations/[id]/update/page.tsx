@@ -1,9 +1,9 @@
 import React from 'react'
 
-const ImageDetails = () => {
+const Page = () => {
     return (
-        <div>ImageDetails</div>
+        <div>Page</div>
     )
 }
 
-export default ImageDetails;
+export default Page;
